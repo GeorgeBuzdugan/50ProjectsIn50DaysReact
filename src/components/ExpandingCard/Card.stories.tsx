@@ -1,6 +1,3 @@
-/* eslint-disable react/jsx-props-no-spreading */
-/* eslint-disable react/function-component-definition */
-/* eslint-disable import/no-extraneous-dependencies */
 import { ComponentMeta, ComponentStory } from '@storybook/react';
 
 import { EXPANDING_CARDS } from '../../constants/constants';
